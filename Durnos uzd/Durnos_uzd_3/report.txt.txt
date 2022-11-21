@@ -1,0 +1,121 @@
+QUERY1
+12
+Sole de Vito: Course: 3 Average mark: 0.000000 Load: 0
+Helen Brighthill: Course: 1 Average mark: 0.000000 Load: 0
+Alice Quarry: Course: 2 Average mark: 0.000000 Load: 0
+...
+
+QUERY2
+885
+Alex Wozniak: Course: 1 Average mark: 7.000000 Load: 6
+Richard Sleight: Course: 1 Average mark: 6.666667 Load: 3
+Jessie Hat: Course: 3 Average mark: 6.000000 Load: 3
+...
+
+QUERY3
+806
+Richard Sleight: Course: 1 Average mark: 6.666667 Load: 3
+Jessie Hat: Course: 3 Average mark: 6.000000 Load: 3
+Julie Damon: Course: 4 Average mark: 5.600000 Load: 5
+...
+
+QUERY4
+331
+Julie Damon: Course: 4 Average mark: 5.600000 Load: 5
+Jerry Quarry: Course: 4 Average mark: 6.000000 Load: 6
+George Darry: Course: 2 Average mark: 7.500000 Load: 4
+...
+
+QUERY5
+263
+Jessie Hat: Course: 3 Average mark: 6.000000 Load: 3
+Angelina Damon: Course: 1 Average mark: 9.250000 Load: 4
+George Darry: Course: 2 Average mark: 7.500000 Load: 4
+...
+
+QUERY6
+576
+Richard Sleight: Course: 1 Average mark: 6.666667 Load: 3
+Jessie Hat: Course: 3 Average mark: 6.000000 Load: 3
+Betty de Vito: Course: 1 Average mark: 9.000000 Load: 1
+...
+
+QUERY7
+192
+Betty de Vito: Course: 1 Average mark: 9.000000 Load: 1
+George Quarry: Course: 4 Average mark: 7.000000 Load: 1
+Jenny Thornton: Course: 4 Average mark: 8.000000 Load: 2
+...
+
+QUERY8
+89
+Jessie Hat: Course: 3 Average mark: 6.000000 Load: 3
+Jane Smith: Course: 1 Average mark: 8.333333 Load: 3
+Sole Wozniak: Course: 4 Average mark: 7.166667 Load: 6
+...
+
+QUERY9
+263
+Alex Wozniak: Course: 1 Average mark: 7.000000 Load: 6
+Richard Sleight: Course: 1 Average mark: 6.666667 Load: 3
+Angelina Damon: Course: 1 Average mark: 9.250000 Load: 4
+...
+
+QUERY10
+264
+Jerry Quarry: Course: 4 Average mark: 6.000000 Load: 6
+Jamie Sleight: Course: 4 Average mark: 6.500000 Load: 4
+Victor Enderman: Course: 1 Average mark: 7.333333 Load: 3
+...
+
+QUERY11
+558
+Alex Wozniak: Course: 1 Average mark: 7.000000 Load: 6
+Richard Sleight: Course: 1 Average mark: 6.666667 Load: 3
+Angelina Damon: Course: 1 Average mark: 9.250000 Load: 4
+...
+
+QUERY12
+4
+Angelina Gibson: Course: 3 Average mark: 7.750000 Load: 4
+Luke Druddle: Course: 4 Average mark: 8.000000 Load: 4
+Jerry Kesting: Course: 3 Average mark: 6.250000 Load: 4
+...
+
+QUERY13
+51
+Sarah Perry: Course: 1 Average mark: 4.333333 Load: 3
+George Darry: Course: 3 Average mark: 8.000000 Load: 2
+Helen Enderman: Course: 1 Average mark: 7.000000 Load: 1
+...
+
+QUERY14
+999
+Alex Wozniak: Course: 1 Average mark: 7.000000 Load: 6
+Richard Sleight: Course: 1 Average mark: 6.666667 Load: 3
+Jessie Hat: Course: 3 Average mark: 6.000000 Load: 3
+...
+
+QUERY15
+84
+Betty de Vito: Course: 1 Average mark: 9.000000 Load: 1
+Angelina Damon: Course: 1 Average mark: 9.250000 Load: 4
+Angelina Smith: Course: 1 Average mark: 10.000000 Load: 1
+...
+
+QUERY16
+367
+Julie Damon: Course: 4 Average mark: 5.600000 Load: 5
+Jerry Quarry: Course: 4 Average mark: 6.000000 Load: 6
+George Darry: Course: 2 Average mark: 7.500000 Load: 4
+...
+
+QUERY17
+331
+Julie Damon: Course: 4 Average mark: 5.600000 Load: 5
+Jerry Quarry: Course: 4 Average mark: 6.000000 Load: 6
+George Darry: Course: 2 Average mark: 7.500000 Load: 4
+...
+
+QUERY18
+0

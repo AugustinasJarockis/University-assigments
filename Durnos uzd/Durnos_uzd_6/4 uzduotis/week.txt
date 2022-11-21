@@ -1,0 +1,14 @@
+The day of the week is
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Program to find the day of the week for any given date
+Please insert a date in a format YYYY/MM/DD:
+Date taken
+Please repeat your input
+
+ 
